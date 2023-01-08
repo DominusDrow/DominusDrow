@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**DominusDrow/DominusDrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 # 💫 About Me:
 📱 I'm currently working about my own app to learn English<br>🦾 I would like to collaborate with machine learning projects<br>📕 I'm currently learning React Native and TensorFlow<br>✨ Blockchain and web 3.0 enthusiast<br>📉 ₿itcoin is the best!!! <br>
@@ -23,8 +18,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=DominusDrow&icon=8&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
