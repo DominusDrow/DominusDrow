@@ -38,5 +38,6 @@ const dominusDrow = {
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DominusDrow&theme=merko&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DominusDrow&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DominusDrow&theme=merko&hide_border=true" alt="02KellyV GitHub Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominusDrow&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="02KellyV GitHub Stats" />
+    
