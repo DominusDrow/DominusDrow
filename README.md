@@ -17,7 +17,7 @@ const dominusDrow = {
     askMeAbout: ["web dev", "tech", "cripto", "manga"],
     technologies: {
         frondEnd: {
-            js: ["React", "Next"],
+            js: ["React", "Next", "Vite"],
         },
         mobileApp: {
             multi_plataform: ["React_Native"]
