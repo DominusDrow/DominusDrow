@@ -35,14 +35,15 @@ const dominusDrow = {
             js: ["React", "Next", "Vite"],
         },
         mobileApp: {
-            multi_plataform: ["React_Native"]
+            multi_plataform: ["React_Native"],
+            android: ["java"],
         },
         machineLearning: {
-            deep_learning: ["Numpy", "Pandas", "scikit_learn"]
+            deep_learning: ["Numpy", "Pandas", "scikit_learn"],
         },
         devOps: ["Firebase", "AWS", "Docker🐳"],
         databases: ["mongo", "Maria"],
-        misc: ["linux", "c", "neovim"]
+        misc: ["linux", "c", "neovim"],
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "React Native to make movil applications",
