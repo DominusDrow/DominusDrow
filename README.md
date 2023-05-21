@@ -32,10 +32,10 @@ const dominusDrow = {
     askMeAbout: ["web dev", "tech", "cripto", "manga"],
     technologies: {
         frondEnd: {
-            js: ["React", "Next", "Vite"],
+            js: ["React", "Vite", "Redux"],
         },
         mobileApp: {
-            multi_plataform: ["React_Native"],
+            multi_plataform: ["React_Native", "Expo"],
             android: ["java"],
         },
         machineLearning: {
