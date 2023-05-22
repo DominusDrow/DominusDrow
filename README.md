@@ -39,7 +39,7 @@ const dominusDrow = {
             android: ["java"],
         },
         machineLearning: {
-            deep_learning: ["Numpy", "Pandas", "scikit_learn"],
+            deep_learning: ["Numpy", "Pandas", "scikit_learn", "Keras"],
         },
         devOps: ["Firebase", "AWS", "Docker🐳"],
         databases: ["mongo", "Maria"],
