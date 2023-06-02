@@ -43,7 +43,7 @@ const dominusDrow = {
         },
         devOps: ["Firebase", "AWS", "Docker🐳"],
         databases: ["mongo", "Maria"],
-        misc: ["linux", "c", "neovim"],
+        misc: ["linux", "bash", "c", "neovim"],
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "React Native to make movil applications",
