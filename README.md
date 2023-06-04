@@ -47,7 +47,7 @@ const dominusDrow = {
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "React Native to make movil applications",
-    funFact: "📉 ₿itcoin is the best!!!"
+    funFact: "📉 ₿itcoin is the best!"
 };
 ```
 
